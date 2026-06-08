@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaun Mugambiwa
 
-<!--
-**shnccnts-afk/shnccnts-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Quality Engineer** | Manual + Automation | Johannesburg, South Africa
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Project: SIA Restaurant Platform
+
+[![CI](https://github.com/shnccnts-afk/sia/actions/workflows/test.yml/badge.svg)](https://github.com/shnccnts-afk/sia/actions)
+[![API Smoke Tests](https://github.com/shnccnts-afk/sia/actions/workflows/newman-smoke.yml/badge.svg?branch=main)](https://github.com/shnccnts-afk/sia/actions/workflows/newman-smoke.yml)
+
+**Full‑stack QA showcase** – a multi‑tenant restaurant platform with:  
+- A complete test pyramid (Jest, pytest, Vitest, Playwright, k6, OWASP ZAP)  
+- Automated API smoke tests with Newman (43 endpoints, 57 assertions)  
+- A self‑managing test‑case library using GitHub Issues  
+- Zero‑alert security baseline  
+- Fully Dockerised, CI/CD‑driven
+
+[🔗 View the repository →](https://github.com/shnccnts-afk/sia)
+
+---
+
+## 🛠️ Skills
+
+`Manual Testing` `Test Automation` `Playwright` `Selenium` `Postman / Newman` `pytest` `Vitest` `Jest` `k6` `OWASP ZAP` `CI/CD (GitHub Actions)` `Docker` `SQL (PostgreSQL)` `React Testing Library` `Python` `TypeScript` `Agile / Scrum`
+
+---
+
+## 📫 Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/shaun-i-mugambiwa-30a2979b)
+- Email: shnccnts@gmail.com
+- GitHub: You're already here!
